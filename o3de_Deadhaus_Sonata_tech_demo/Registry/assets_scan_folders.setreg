@@ -1,0 +1,24 @@
+{
+    "Amazon":
+    {
+        "Gems":
+        {
+            "Deadhaus_Sonata.Assets":
+            {
+                "SourcePaths":
+                [
+                    "Gems/Atom/Tools/MaterialEditor",
+                    "Gems/AtomContent/ReferenceMaterials"
+                ]
+            },
+            "Hair":
+            {
+                "SourcePaths":
+                [
+                    "Gems/AtomTressFX/Assets",
+                    "Gems/AtomTressFX/External/Assets"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Amazon": {
+        "AzCore": {
+            "Bootstrap": {
+                "ForceDisableRTX": true
+			}
+		}
+	}
+}

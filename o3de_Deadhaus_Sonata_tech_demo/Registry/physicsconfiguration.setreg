@@ -1,0 +1,114 @@
+{
+    "Amazon": {
+        "Gems": {
+            "PhysX": {
+                "PhysicsConfiguration": {
+                    "CollisionConfiguration": {
+                        "Layers": {
+                            "LayerNames": [
+                                "Default",
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                "TouchBend"
+                            ]
+                        },
+                        "Groups": {
+                            "GroupPresets": [
+                                {
+                                    "Name": "All",
+                                    "ReadOnly": true
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{1F47590B-96C1-4B2D-B78F-5B3C97CE6006}"
+                                    },
+                                    "Name": "None",
+                                    "Group": {
+                                        "Mask": 0
+                                    },
+                                    "ReadOnly": true
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{79074B2D-E132-4D33-8283-290EF8ED1EDF}"
+                                    },
+                                    "Name": "All_NoTouchBend",
+                                    "Group": {
+                                        "Mask": 9223372036854775807
+                                    },
+                                    "ReadOnly": true
+                                }
+                            ]
+                        }
+                    },
+                    "MaterialLibrary": {
+                        "assetId": {
+                            "guid": "{3A055A3F-8CB7-5FEE-B437-EB365FACD0D4}"
+                        },
+                        "assetHint": "surfacetypemateriallibrary.physmaterial"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Amazon": {
+        "AzCore": {
+            "Runtime": {
+                "ConsoleCommands": {
+                    "sys_PakPriority": 0,
+                    "bg_ConnectToAssetProcessor": false
+                }
+            }
+        }
+    },
+    "Amazon" : {
+        "Preferences": {
+            "EnablePrefabSystem" : false
+        }
+    }
+}

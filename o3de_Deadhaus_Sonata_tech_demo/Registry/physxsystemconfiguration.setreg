@@ -1,0 +1,187 @@
+{
+    "Amazon": {
+        "Gems": {
+            "PhysX": {
+                "PhysXSystemConfiguration": {
+                    "FixedTimeStep": 0.0,
+                    "CollisionConfig": {
+                        "Layers": {
+                            "LayerNames": [
+                                "Default",
+                                "Characters",
+                                "Environment",
+                                "Projectiles",
+                                "Weapons",
+                                "Corpse",
+                                "BodyPart",
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                "TouchBend"
+                            ]
+                        },
+                        "Groups": {
+                            "GroupPresets": [
+                                {
+                                    "Name": "All",
+                                    "ReadOnly": true
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{B59141C7-1C06-4854-96DB-733C4602CC55}"
+                                    },
+                                    "Name": "None",
+                                    "Group": {
+                                        "Mask": 0
+                                    },
+                                    "ReadOnly": true
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{2FC22073-A219-421B-BC3F-E1B378BE97B1}"
+                                    },
+                                    "Name": "All_NoTouchBend",
+                                    "Group": {
+                                        "Mask": 9223372036854775807
+                                    },
+                                    "ReadOnly": true
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{1182738A-8D6B-4A18-93B9-10D78149139A}"
+                                    },
+                                    "Name": "CameraCollision",
+                                    "Group": {
+                                        "Mask": 9223372036854775685
+                                    }
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{F50F91C2-5423-4141-9C68-648631C28B78}"
+                                    },
+                                    "Name": "Terrain",
+                                    "Group": {
+                                        "Mask": 9223372036854775685
+                                    }
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{9044EAA3-A58E-449A-B108-EB7DFD457B4E}"
+                                    },
+                                    "Name": "All_NoCharacters",
+                                    "Group": {
+                                        "Mask": 18446744073709551581
+                                    }
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{71EB3997-C079-4F45-BCC5-E94B40B16897}"
+                                    },
+                                    "Name": "Weapons",
+                                    "Group": {
+                                        "Mask": 9223372036854775747
+                                    }
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{80154E95-2D8F-4CC4-9F4E-1FC822AD7333}"
+                                    },
+                                    "Name": "Corpse",
+                                    "Group": {
+                                        "Mask": 18446744073709551493
+                                    }
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{2573A851-4D45-4B65-BFB4-145AA74C9982}"
+                                    },
+                                    "Name": "Only_Characters",
+                                    "Group": {
+                                        "Mask": 9223372036854775683
+                                    }
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{534F3A99-A51B-41C9-8307-53345B6EE842}"
+                                    },
+                                    "Name": "BodyPart",
+                                    "Group": {
+                                        "Mask": 9223372036854775705
+                                    }
+                                },
+                                {
+                                    "Id": {
+                                        "GroupId": "{883EECF6-10A5-4CA1-A7F6-8AA0D2A5DD93}"
+                                    },
+                                    "Name": "EnvironmentAndCharacters",
+                                    "Group": {
+                                        "Mask": 9223372036854775687
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "MaterialLibrary": {
+                        "assetId": {
+                            "guid": "{3A055A3F-8CB7-5FEE-B437-EB365FACD0D4}"
+                        },
+                        "assetHint": "surfacetypemateriallibrary.physmaterial"
+                    }
+                }
+            }
+        }
+    }
+}
